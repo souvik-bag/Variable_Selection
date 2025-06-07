@@ -1,6 +1,8 @@
 **A review and recommendations on variable selection methods in logistic
 regression models**
 
+**Authors : Souvik Bag, Kapil Gupta, Soudeep Deb**
+
 The selection of essential variables in logistic regression is vital because of its extensive use in medical
 studies, finance, economics and related fields. In this paper, we explore four main typologies (test-based,
 penalty-based, screening-based, and tree-based) of frequentist variable selection methods in logistic regres-
