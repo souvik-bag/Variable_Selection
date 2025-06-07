@@ -1,0 +1,5 @@
+1. Made CV in glmnet parallel
+2. Changed the way elastic net was coded earlier. Using foreach function.
+3. Implemented AUC.
+4. Why should we include the time spent in RF building  in the model. for ex PIMP.
+5. VSURF : prediction part and interpretation part.

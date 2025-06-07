@@ -1,0 +1,10 @@
+# RStudio
+.Rproj.user/
+# History etc.
+.Rhistory
+.RData
+.Ruserdata
+# renv                
+renv/library/
+renv/staging/
+.Rprofile
