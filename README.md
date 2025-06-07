@@ -1,5 +1,5 @@
 **A review and recommendations on variable selection methods in logistic
-regression models*
+regression models**
 
 The selection of essential variables in logistic regression is vital because of its extensive use in medical
 studies, finance, economics and related fields. In this paper, we explore four main typologies (test-based,
